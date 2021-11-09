@@ -6,7 +6,7 @@ export default function Header() {
     <header className={styles.postHeader}>
       <Link href="/">
         <a>
-          <img src="/logo.svg" alt="Logo" />
+          <img src="/fitlife2.png" alt="Logo" />
         </a>
       </Link>
     </header>
